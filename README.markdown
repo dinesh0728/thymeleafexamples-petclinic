@@ -1,6 +1,6 @@
 # Spring PetClinic + Thymeleaf Sample Application
 
-## What's this?
+### What's this?
 This is a thymeleaf-enabled version of the Spring PetClinic official
 sample application by SpringSource.
 
@@ -23,5 +23,5 @@ Once downloaded, the application can be locally started with:
 ```
 	mvn tomcat7:run
 ```
-
+ this code
 Which will start a Tomcat server you can access at: http://localhost:8080/petclinic/
